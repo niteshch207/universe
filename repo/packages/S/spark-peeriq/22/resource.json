@@ -2,7 +2,7 @@
   "assets": {
     "container": {
       "docker": {
-        "spark_docker": "niteshch/spark-peeriq"
+        "spark_docker": "docker-registry.peeriq.com/spark-peeriq"
       }
     }
   },
