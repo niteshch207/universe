@@ -8,6 +8,7 @@
     "type": "DOCKER",
     "docker": {
       "network": "BRIDGE",
+      "forcePullImage": true,
       "image": "mesosphere/universe-server:$tag",
       "portMappings": [
         {
