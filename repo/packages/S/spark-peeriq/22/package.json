@@ -7,7 +7,7 @@
     }
   ],
   "maintainer": "support@mesosphere.io",
-  "minDcosReleaseVersion": "1.,7",
+  "minDcosReleaseVersion": "1.7",
   "name": "spark-peeriq",
   "packagingVersion": "3.0",
   "postInstallNotes": "DC/OS Spark is being installed!\n\n\tDocumentation: https://docs.mesosphere.com/current/usage/service-guides/spark/\n\tIssues: https://docs.mesosphere.com/support/",
